@@ -25,7 +25,7 @@ list-style: none;
 background-color: #de2e03;
 color: #fff;
 text-decoration: none;
-padding: 40px 20px;
+padding: 30px 20px;
 display: block;
 }
 
